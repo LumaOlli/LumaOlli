@@ -3,15 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luma+Oliveira;I'm+20+years+old;I'm+from+Brazil;Academic+in+information+technology;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LumaOlli&show_icons=true&count_private=true&hide_border=true&title_color=#ADD8E6&icon_color=#ADD8E6&text_color=#ADD8E6&bg_color=#ADD8E6" alt="Luma Oliveiragithub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumaOlli&layout=compact&hide_border=true&title_color#DDA0DD&text_color=DDA0DD&bg_color=DDA0DD" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LumaOlli&show_icons=true&count_private=true&hide_border=true&title_color=#DDA0DD&icon_color=#DDA0DD&text_color=#DDA0DD&bg_color=#DDA0DD" alt="Luma Oliveiragithub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumaOlli&layout=compact&hide_border=true&title_color#800000&text_color=800000&bg_color=800000" />
 </div>
 
 ### Currently developing in
 
 <div style="display: inline_block">
-<img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img align="center" alt="c++" src="https://img.shields.io/badge/C++-14354C?style=for-the-badge&logo=C+++&logoColor=white" />
+<img align="center" alt="c" src="https://img.shields.io/badge/C-800000?style=for-the-badge&logo=c&logoColor=white" />
+<img align="center" alt="c++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white" />
 </div>
 
 ##
