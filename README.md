@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#4B0082&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#800080&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luma+Oliveira;I'm+20+years+old;I'm+from+Brazil;Academic+in+information+technology;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LumaOlli&show_icons=true&count_private=true&hide_border=true&title_color=#40E0D0&icon_color=#40E0D0&text_color=#40E0D0&bg_color=#40E0D0" alt="Luma Oliveiragithub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumaOlli&layout=compact&hide_border=true&title_color#40E0D0&text_color=&bg_color=800000" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LumaOlli&show_icons=true&count_private=true&hide_border=true&title_color=#8A2BE2&icon_color=#8A2BE2&text_color=#DDA0DD&bg_color=#DDA0DD" alt="Luma Oliveiragithub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumaOlli&layout=compact&hide_border=true&title_color#8A2BE2&text_color=&bg_color=DDA0DD" />
 </div>
 
 ### Currently developing in
@@ -22,4 +22,4 @@
 <a href="https://www.linkedin.com/in/luma-oliveira-8b42a31a6//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#4B0082&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#800080&height=120&section=footer"/>
