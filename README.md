@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=Hello👋;My+name+is+Luma+Oliveira;I'm+21+years+old;I'm+from+Brazil;Academic+in+information+technology;Be+Welcome!+;%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LumaOlli&show_icons=true&count_private=true&hide_border=true&title_color=8B008B&icon_color=1E90FFtext_color=c9d1d9&bg_color=0d1117" alt="Luma Oliveira github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LumaOlli&show_icons=true&count_private=true&hide_border=true&title_color=8B008B&icon_color=8B008B&text_color=1E90FF&bg_color=0d1117" alt="Luma Oliveira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumaOlli&layout=compact&hide_border=true&title_color=8B008B&text_color=8B008B&bg_color=0d1117" />
 </div>
 
