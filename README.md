@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LumaOlli&theme=purble-white&title_color=8B008B&icon_color=8B008B&text_color=c9d1d9&bg_color=0d1117" alt="Luma Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumaOlli&layout=compact&hide_border=true&title_color=8B008B&text_color=8B008B&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumaOlli&layout=compact&hide_border=true&title_color=8B008B&text_color=8B008B&bg_color=FFFFFF" />
 </div>
 
 ### Developing in:
