@@ -11,9 +11,10 @@
 ### Developing in:
 
 <div style="display: inline_block=white">
-<img align="center" alt="c" src="https://img.shields.io/badge/C-800000?style=for-the-badge&logo=c&logoColor=white" />
+<img align="center" alt="c" src="https://img.shields.io/badge/C-800000?style=for-the-badge&logo=C&logoColor=white" />
 <img align="center" alt="c++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white" />
 <img align="center" alt="java" src="https://img.shields.io/badge/JAVA-FF8C00?style=for-the-badge&logo=Java&&logoColor=white" />
+  <img align="center" alt="next.js" src="https://img.shields.io/badge/NEXT.js-2E8B57?style=for-the-badge&logo=NEXT.js&&logoColor=white" />
 </div>
 
 ##
